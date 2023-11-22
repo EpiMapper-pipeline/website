@@ -1,0 +1,117 @@
+/* Set the background color to a light blue */
+body {
+    background-color: rgba(237, 237, 237, 0.79);
+}
+
+/* Style the header */
+header {
+    background-color: #cafaca; 
+    color: black;
+    text-align: center;
+    padding: 30px;
+    margin: 20px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+    font-size: 25px;
+}
+
+nav a {
+    color: rgb(0, 0, 0); /* Dark blue text for links */
+    text-decoration: none;
+}
+
+/* Style the main content */
+main {
+    background-color: rgb(255, 255, 255);
+    padding: 30px;
+    margin: 20px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+    .logo {
+        display: inline-block;
+    }
+    
+    .logo img {
+        width: 200px; /* Adjust the desired width */
+        height: 40px; /* Adjust the desired height */
+        margin-right: 20px; /* Adjust the margin to control the spacing between images */
+    }
+
+    center-align {
+        text-align: center;
+    }
+    .authors {
+        background-color: rgb(255, 255, 255);
+        padding: 20px;
+        margin: 20px;
+        text-align: center;
+        font-size: 12px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    }
+
+    .abstract {
+        background-color: rgb(255, 255, 255);
+        padding: 20px;
+        margin: 20px;
+        text-align: center;
+        font-size: 15px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    }
+
+
+    .supplementary {
+        background-color: rgb(255, 255, 255);
+        padding: 20px;
+        margin: 20px;
+        text-align: center;
+        font-size: 15px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.download-link {
+    font-weight: bold; /* Make the text bold */
+    text-decoration: none; /* Remove the default underline */
+    color: #1d256f; /* Set the text color */
+}
+
+.download-link:hover {
+    text-decoration: underline; /* Underline the text on hover */
+}
+
+.centered-line-spacing {
+    text-align: center;
+    line-height: 1.5; /* Adjust the line-height value as needed */
+    list-style-position: inside;
+}
+
+.left-line-spacing {
+    text-align: left;
+    line-height: 1.5; /* Adjust the line-height value as needed */
+    list-style-position: inside;
+}
+
+
+/* Style the footer */
+footer {
+    background-color: #cafaca; /* Dark blue for the footer */
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
