@@ -5,7 +5,7 @@ body {
 
 /* Style the header */
 header {
-    background-color: #cafaca; 
+    background-color: #d7f4d7; 
     color: black;
     text-align: center;
     padding: 30px;
@@ -110,7 +110,7 @@ main {
 
 /* Style the footer */
 footer {
-    background-color: #cafaca; /* Dark blue for the footer */
+    background-color: #d7f4d7; /* Dark blue for the footer */
     color: black;
     text-align: center;
     padding: 10px;
